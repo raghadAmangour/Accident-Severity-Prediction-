@@ -28,5 +28,5 @@ This project analyzes 7.7 million US accident records to predict the severity of
   - Accuracy: **79%**  
   - Loss curves indicate good generalization
 
-## 📂 Project Structure
+
 
